@@ -52,7 +52,7 @@ An AI-driven acoustic surveillance system leverages advanced audio processing te
 
 ![Screenshot 2024-12-14 094832](https://github.com/user-attachments/assets/c0f5899b-c213-42fc-8413-5016e0f18ecf)
 
-#### Output2 - ALERT REPORT GENERATED:
+#### Output2 - ALERT REPORT DATABASE:
 
 ![Screenshot 2024-12-13 220554](https://github.com/user-attachments/assets/6be54a06-858e-4ff6-b658-e112b5e5a8e4)
 
