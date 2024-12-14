@@ -39,7 +39,13 @@ An AI-driven acoustic surveillance system leverages advanced audio processing te
 
 ![Screenshot 2024-12-13 220554](https://github.com/user-attachments/assets/6be54a06-858e-4ff6-b658-e112b5e5a8e4)
 
-Detection Accuracy: 0.79%
+Metrics : 
+Precision : 94
+Accuracy : 92
+Recall :92
+F1 score :94
+
+Detection Accuracy: 0.92%
 
 ## Results and Impact:
 
