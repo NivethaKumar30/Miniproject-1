@@ -5,7 +5,7 @@ An AI-driven acoustic surveillance system leverages advanced audio processing te
 
 ## Features
 
-1.Real-Time Audio Detection
+**1.Real-Time Audio Detection
 
 2.Noise Filtering
 
@@ -23,7 +23,7 @@ An AI-driven acoustic surveillance system leverages advanced audio processing te
 
 9.Adaptability in Noisy Environments
 
-10.Cost-Effective and Automated
+10.Cost-Effective and Automated**
 
 ## Requirements
 **Operating System:** Requires a 64-bit OS (Windows 10, Ubuntu, or macOS) for compatibility with audio processing and deep learning frameworks.
@@ -57,7 +57,7 @@ An AI-driven acoustic surveillance system leverages advanced audio processing te
 ![Screenshot 2024-12-13 220554](https://github.com/user-attachments/assets/6be54a06-858e-4ff6-b658-e112b5e5a8e4)
 
 
-Detection Accuracy: 0.92%
+**Detection Accuracy: 0.92%**
 
 ## Results and Impact:
 
